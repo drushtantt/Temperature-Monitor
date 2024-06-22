@@ -1,0 +1,8 @@
+API_KEY = 'your_api_key'
+DEVICE_ID = 'your_device_id'
+SSID = 'your_twilio_ssid'
+AUTH_TOKEN = 'your_twilio_auth_token'
+TO_NUMBER = 'recipient_number'
+FROM_NUMBER = 'twilio_number'
+FRAME_SIZE = 10
+MUL_FACTOR = 1.5
